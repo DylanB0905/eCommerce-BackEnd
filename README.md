@@ -39,6 +39,9 @@ Express.js: https://expressjs.com/
 
 MIT
 
+## Test
+Video of test: https://youtu.be/3TlmKffdk6A
+
 ## How to Contribute
 
 The [Contributor Covenant](https://www.contributor-covenant.org/)
